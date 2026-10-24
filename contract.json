@@ -1,0 +1,12 @@
+{
+    "contract_id": "bodhi.capsule.v1",
+    "identity": "100048777766367/capsule",
+    "genesis_root": "100048777766367/contract",
+    "archetype": "DATA_FOUNDRY",
+    "role": "WORKPIECE_PALLET_CARRIER",
+    "network_partners": {
+        "pilot": "100048777766367/pilot",
+        "storage": "100048777766367/storage"
+    },
+    "io_specification": "I/O (WORKPIECE_PALLET_CARRIER)"
+}
